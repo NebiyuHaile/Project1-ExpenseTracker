@@ -16,7 +16,6 @@ import csv
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 from tkcalendar import DateEntry
-print("hello")
 class Expense:
     def __init__(self, date, description, amount, category="Uncategorized"):
         self.date = date
