@@ -3,11 +3,11 @@ A desktop application to track and manage daily expenses, allowing users to add,
 With built-in charts and export options, this tool provides a straightforward way to gain insights into spending patterns.
 
 ## **Features**
-Add, Edit, Delete Expenses: Record expenses with details like date, description, amount, and category.
-View Options: View all expenses or filter by today’s expenses.
-Summary Statistics: Calculate totals by category, description, or overall spending.
-Search & Export: Search expenses by description or category and export data to CSV.
-Visual Charts: Display expense distribution with bar and pie charts.
+1. Add, Edit, Delete Expenses: Record expenses with details like date, description, amount, and category.
+2. View Options: View all expenses or filter by today’s expenses.
+3. Summary Statistics: Calculate totals by category, description, or overall spending.
+4. Search & Export: Search expenses by description or category and export data to CSV.
+5. Visual Charts: Display expense distribution with bar and pie charts.
 ## **Technologies**
 Python: Core logic
 Tkinter: User interface
