@@ -9,9 +9,9 @@ With built-in charts and export options, this tool provides a straightforward wa
 4. Search & Export: Search expenses by description or category and export data to CSV.
 5. Visual Charts: Display expense distribution with bar and pie charts.
 ## **Technologies**
-Python: Core logic
-Tkinter: User interface
-Matplotlib: Data visualization
-JSON & CSV: Data storage and export options
+1. Python: Core logic
+1. Tkinter: User interface
+3. Matplotlib: Data visualization
+4. JSON & CSV: For data storage and export options
 ## **License**
 This project is licensed under the MIT License.
